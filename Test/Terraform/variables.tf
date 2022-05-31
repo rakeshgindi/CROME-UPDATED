@@ -4,7 +4,7 @@ variable "rgname" {
 }
 variable "location" {
     description = "location name"
-    default     = "East Us"
+    default     = "Central India"
 }
 variable "vnet_name" {
      description = "name for vnet"
