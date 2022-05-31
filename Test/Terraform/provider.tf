@@ -12,9 +12,9 @@ provider "azurerm" {
 
    version = "~>2.0"
 
-   subscription_id="8645f272-180d-4741-b753-a25f9ee602c9"
-     tenant_id="f85b0bcf-13cb-4dd0-a052-a807ce94ee3b"
-     client_id="dd2d3b3d-666b-4c95-873c-3e30a7c04a04"
+   subscription_id="56515887-6cef-455e-a5b7-b0365fd53189"
+     tenant_id="6b079424-1ec5-495a-85ec-20094172af00"
+     client_id="479c0ca1-0a57-447b-81dc-27aef2ff3a4f"
   features {
   }
 }
